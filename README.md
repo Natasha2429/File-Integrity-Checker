@@ -1,4 +1,4 @@
-Cybersecurity Internship Projects:File-Integrity-Checker
+Task 1:File-Integrity-Checker
 
 COMPANY: CODTECH IT SOLUTIONS
 
